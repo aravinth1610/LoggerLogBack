@@ -1,0 +1,44 @@
+2024-03-06 23:10:12,057 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on aravinth with PID 20267 (/home/aravinth/Applications/Logger/Spring-MVC-Tutorials-master/SpringLogging/target/classes started by aravinth in /home/aravinth/Applications/Logger/Spring-MVC-Tutorials-master/SpringLogging)
+2024-03-06 23:10:12,059 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2024-03-06 23:10:12,060 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2024-03-06 23:10:12,796 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 0.917 seconds (JVM running for 1.319)
+2024-03-06 23:10:22,820 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2024-03-06 23:15:42,363 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on aravinth with PID 20709 (/home/aravinth/Applications/Logger/Spring-MVC-Tutorials-master/SpringLogging/target/classes started by aravinth in /home/aravinth/Applications/Logger/Spring-MVC-Tutorials-master/SpringLogging)
+2024-03-06 23:15:42,365 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2024-03-06 23:15:42,365 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2024-03-06 23:15:43,082 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 0.878 seconds (JVM running for 1.264)
+2024-03-06 23:15:47,764 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2024-03-06 23:15:48,050 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2024-03-06 23:15:48,240 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2024-03-06 23:15:48,412 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2024-03-06 23:15:48,638 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2024-03-06 23:15:48,803 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2024-03-06 23:15:49,078 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2024-03-06 23:15:49,247 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2024-03-06 23:15:49,418 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-9] FATAL ERROR
+2024-03-06 23:15:49,617 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2024-03-06 23:15:49,846 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2024-03-06 23:15:50,035 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2024-03-06 23:15:50,202 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2024-03-06 23:15:50,413 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2024-03-06 23:15:50,605 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2024-03-06 23:15:50,796 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2024-03-06 23:15:50,969 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2024-03-06 23:15:51,187 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2024-03-06 23:15:51,362 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-9] FATAL ERROR
+2024-03-06 23:15:51,584 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2024-03-06 23:15:51,762 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2024-03-06 23:15:51,962 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2024-03-06 23:15:52,169 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2024-03-06 23:15:52,369 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2024-03-06 23:15:52,577 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2024-03-06 23:15:52,763 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2024-03-06 23:15:52,934 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2024-03-06 23:15:53,127 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2024-03-06 23:15:53,304 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-9] FATAL ERROR
+2024-03-06 23:15:53,500 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2024-03-06 23:15:53,715 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2024-03-06 23:15:53,917 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2024-03-06 23:15:54,135 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2024-03-06 23:15:54,346 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2024-03-06 23:15:54,562 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
