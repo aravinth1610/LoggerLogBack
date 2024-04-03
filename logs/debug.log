@@ -1,0 +1,4 @@
+[INFO ] [2024-04-03 22:56:35,110{UTC}] from c.d.SpringLoggingApplication in StartupInfoLogger.java - Starting SpringLoggingApplication on aravinth with PID 18422 (/home/aravinth/Applications/EclipseWorkspace/SpringBootWorkspace/logback/target/classes started by aravinth in /home/aravinth/Applications/EclipseWorkspace/SpringBootWorkspace/logback)
+[DEBUG] [2024-04-03 22:56:35,112{UTC}] from c.d.SpringLoggingApplication in StartupInfoLogger.java - Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[INFO ] [2024-04-03 22:56:35,113{UTC}] from c.d.SpringLoggingApplication in SpringApplication.java - No active profile set, falling back to default profiles: default
+[INFO ] [2024-04-03 22:56:35,858{UTC}] from c.d.SpringLoggingApplication in StartupInfoLogger.java - Started SpringLoggingApplication in 0.973 seconds (JVM running for 1.342)
